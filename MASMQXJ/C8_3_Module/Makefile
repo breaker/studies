@@ -101,5 +101,5 @@ $(TARGET_DIR)\StdAfx.obj: $(DEPENDS_DIR)\StdAfx.cpp
 	@echo.
 
 clean:
-	@echo Clean:
+	@echo Cleaning:
 	$(RM) $(TARGET) $(OBJS) $(INTS) >NUL 2>&1

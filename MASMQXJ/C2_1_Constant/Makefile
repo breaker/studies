@@ -80,5 +80,5 @@ $(TARGET): $(OBJS)
 	@echo.
 
 clean:
-	@echo Clean:
+	@echo Cleaning:
 	$(RM) $(TARGET) $(OBJS) $(INTS) >NUL 2>&1
