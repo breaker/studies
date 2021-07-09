@@ -23,6 +23,6 @@ VC 6.0 开发包 [百度网盘](https://pan.baidu.com/s/1z_Ds4yGsOlzJ8OIuLaQDVA)
 
 MASM 6.15 Lite 开发包 [百度网盘](https://pan.baidu.com/s/1tQoRc_Q_qd1p2w2NfldKPw) [提取码 pxck]  
 该 MASM 6.15 精简开发包由以下开发包整合而成：
-* VC 1.52
+* VC 1.52 中的 DOS 16bit 工具链 link.exe, lib.exe, CodeView (cv.exe)
 * VS 6.0 Enterprise SP6 中的 NMake 构建管理器
 * VC 6.0 Processor Pack 中的 MASM 6.15.8803 汇编器
