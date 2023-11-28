@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyViewer", "MyViewer\MyViewer.vcproj", "{2DF96525-6ECD-4AD2-8718-4ED27EE8A1F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyEngine", "MyEngine\MyEngine.vcproj", "{974B4E4F-62EB-4A6C-82D5-9933D680A558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF96525-6ECD-4AD2-8718-4ED27EE8A1F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DF96525-6ECD-4AD2-8718-4ED27EE8A1F2}.Debug|Win32.Build.0 = Debug|Win32
+		{2DF96525-6ECD-4AD2-8718-4ED27EE8A1F2}.Release|Win32.ActiveCfg = Release|Win32
+		{2DF96525-6ECD-4AD2-8718-4ED27EE8A1F2}.Release|Win32.Build.0 = Release|Win32
+		{974B4E4F-62EB-4A6C-82D5-9933D680A558}.Debug|Win32.ActiveCfg = Debug|Win32
+		{974B4E4F-62EB-4A6C-82D5-9933D680A558}.Debug|Win32.Build.0 = Debug|Win32
+		{974B4E4F-62EB-4A6C-82D5-9933D680A558}.Release|Win32.ActiveCfg = Release|Win32
+		{974B4E4F-62EB-4A6C-82D5-9933D680A558}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

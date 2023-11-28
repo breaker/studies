@@ -1,0 +1,6 @@
+; SGL.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SGL"
+
+EXPORTS
+    ; Explicit exports can go here

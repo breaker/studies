@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SGL", "SGL\SGL.vcproj", "{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Terrain1", "Terrain1\Terrain1.vcproj", "{4A2BD313-DE31-401C-8707-9F90F8900D54}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Terrain2", "Terrain2\Terrain2.vcproj", "{25FDF208-7C1D-4C59-9845-FF6B2AE620BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.Build.0 = Release|Win32
+		{4A2BD313-DE31-401C-8707-9F90F8900D54}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A2BD313-DE31-401C-8707-9F90F8900D54}.Debug|Win32.Build.0 = Debug|Win32
+		{4A2BD313-DE31-401C-8707-9F90F8900D54}.Release|Win32.ActiveCfg = Release|Win32
+		{4A2BD313-DE31-401C-8707-9F90F8900D54}.Release|Win32.Build.0 = Release|Win32
+		{25FDF208-7C1D-4C59-9845-FF6B2AE620BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25FDF208-7C1D-4C59-9845-FF6B2AE620BD}.Debug|Win32.Build.0 = Debug|Win32
+		{25FDF208-7C1D-4C59-9845-FF6B2AE620BD}.Release|Win32.ActiveCfg = Release|Win32
+		{25FDF208-7C1D-4C59-9845-FF6B2AE620BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

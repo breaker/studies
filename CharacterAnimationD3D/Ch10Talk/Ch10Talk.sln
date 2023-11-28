@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex10-1ManualVoiceLine", "Ex10-1ManualVoiceLine\Ex10-1ManualVoiceLine.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex10-2AutoLipSyncing", "Ex10-2AutoLipSyncing\Ex10-2AutoLipSyncing.vcproj", "{05116F22-1F82-4428-98F0-2B1B6FD4950F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{05116F22-1F82-4428-98F0-2B1B6FD4950F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05116F22-1F82-4428-98F0-2B1B6FD4950F}.Debug|Win32.Build.0 = Debug|Win32
+		{05116F22-1F82-4428-98F0-2B1B6FD4950F}.Release|Win32.ActiveCfg = Release|Win32
+		{05116F22-1F82-4428-98F0-2B1B6FD4950F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

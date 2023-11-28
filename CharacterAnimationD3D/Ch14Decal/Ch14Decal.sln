@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex14-1PickMesh", "Ex14-1PickMesh\Ex14-1PickMesh.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex14-2DecalMesh", "Ex14-2DecalMesh\Ex14-2DecalMesh.vcproj", "{B436BCAD-D342-48D2-8561-E0ADED25B48F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex14-3DecalMap", "Ex14-3DecalMap\Ex14-3DecalMap.vcproj", "{BAF757ED-7B67-475A-8D37-E1078B57FC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{B436BCAD-D342-48D2-8561-E0ADED25B48F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B436BCAD-D342-48D2-8561-E0ADED25B48F}.Debug|Win32.Build.0 = Debug|Win32
+		{B436BCAD-D342-48D2-8561-E0ADED25B48F}.Release|Win32.ActiveCfg = Release|Win32
+		{B436BCAD-D342-48D2-8561-E0ADED25B48F}.Release|Win32.Build.0 = Release|Win32
+		{BAF757ED-7B67-475A-8D37-E1078B57FC31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF757ED-7B67-475A-8D37-E1078B57FC31}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF757ED-7B67-475A-8D37-E1078B57FC31}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF757ED-7B67-475A-8D37-E1078B57FC31}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

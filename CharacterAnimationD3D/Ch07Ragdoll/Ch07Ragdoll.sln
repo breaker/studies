@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex7-1BulletBoxFall", "Ex7-1BulletBoxFall\Ex7-1BulletBoxFall.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex7-2BulletConnet", "Ex7-2BulletConnet\Ex7-2BulletConnet.vcproj", "{E0764BBA-075D-4BD9-A0B2-C2F354EE6982}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex7-3RagdollBullet", "Ex7-3RagdollBullet\Ex7-3RagdollBullet.vcproj", "{EF822B08-5E66-43FB-AA8C-F51ACC1E39CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex7-4RagdollMesh", "Ex7-4RagdollMesh\Ex7-4RagdollMesh.vcproj", "{E52E68CC-D5B9-4C98-84A6-B6FC8A0709E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{E0764BBA-075D-4BD9-A0B2-C2F354EE6982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0764BBA-075D-4BD9-A0B2-C2F354EE6982}.Debug|Win32.Build.0 = Debug|Win32
+		{E0764BBA-075D-4BD9-A0B2-C2F354EE6982}.Release|Win32.ActiveCfg = Release|Win32
+		{E0764BBA-075D-4BD9-A0B2-C2F354EE6982}.Release|Win32.Build.0 = Release|Win32
+		{EF822B08-5E66-43FB-AA8C-F51ACC1E39CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF822B08-5E66-43FB-AA8C-F51ACC1E39CF}.Debug|Win32.Build.0 = Debug|Win32
+		{EF822B08-5E66-43FB-AA8C-F51ACC1E39CF}.Release|Win32.ActiveCfg = Release|Win32
+		{EF822B08-5E66-43FB-AA8C-F51ACC1E39CF}.Release|Win32.Build.0 = Release|Win32
+		{E52E68CC-D5B9-4C98-84A6-B6FC8A0709E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E52E68CC-D5B9-4C98-84A6-B6FC8A0709E6}.Debug|Win32.Build.0 = Debug|Win32
+		{E52E68CC-D5B9-4C98-84A6-B6FC8A0709E6}.Release|Win32.ActiveCfg = Release|Win32
+		{E52E68CC-D5B9-4C98-84A6-B6FC8A0709E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

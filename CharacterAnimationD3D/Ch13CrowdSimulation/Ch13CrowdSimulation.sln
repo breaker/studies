@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13-1Boids", "Ex13-1Boids\Ex13-1Boids.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13-2Crowd", "Ex13-2Crowd\Ex13-2Crowd.vcproj", "{42C4680E-8DFC-4CEF-BDD9-EBA36717BA0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13-3TerrainFollowing", "Ex13-3TerrainFollowing\Ex13-3TerrainFollowing.vcproj", "{0EDF88D3-8D97-497F-A5DC-613D788C4D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{42C4680E-8DFC-4CEF-BDD9-EBA36717BA0B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42C4680E-8DFC-4CEF-BDD9-EBA36717BA0B}.Debug|Win32.Build.0 = Debug|Win32
+		{42C4680E-8DFC-4CEF-BDD9-EBA36717BA0B}.Release|Win32.ActiveCfg = Release|Win32
+		{42C4680E-8DFC-4CEF-BDD9-EBA36717BA0B}.Release|Win32.Build.0 = Release|Win32
+		{0EDF88D3-8D97-497F-A5DC-613D788C4D47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0EDF88D3-8D97-497F-A5DC-613D788C4D47}.Debug|Win32.Build.0 = Debug|Win32
+		{0EDF88D3-8D97-497F-A5DC-613D788C4D47}.Release|Win32.ActiveCfg = Release|Win32
+		{0EDF88D3-8D97-497F-A5DC-613D788C4D47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

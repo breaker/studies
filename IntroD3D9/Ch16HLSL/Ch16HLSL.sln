@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SGL", "SGL\SGL.vcproj", "{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transform", "Transform\Transform.vcproj", "{378FF809-6DBE-46B9-81E6-66F8EB9BF6B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OriginTransform", "OriginTransform\OriginTransform.vcproj", "{F4547DC2-AC12-481E-AEFB-247084D60BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.Build.0 = Release|Win32
+		{378FF809-6DBE-46B9-81E6-66F8EB9BF6B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{378FF809-6DBE-46B9-81E6-66F8EB9BF6B6}.Debug|Win32.Build.0 = Debug|Win32
+		{378FF809-6DBE-46B9-81E6-66F8EB9BF6B6}.Release|Win32.ActiveCfg = Release|Win32
+		{378FF809-6DBE-46B9-81E6-66F8EB9BF6B6}.Release|Win32.Build.0 = Release|Win32
+		{F4547DC2-AC12-481E-AEFB-247084D60BF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4547DC2-AC12-481E-AEFB-247084D60BF3}.Debug|Win32.Build.0 = Debug|Win32
+		{F4547DC2-AC12-481E-AEFB-247084D60BF3}.Release|Win32.ActiveCfg = Release|Win32
+		{F4547DC2-AC12-481E-AEFB-247084D60BF3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

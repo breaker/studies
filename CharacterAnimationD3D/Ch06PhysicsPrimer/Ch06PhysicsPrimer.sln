@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex6-1OBBIntersect", "Ex6-1OBBIntersect\Ex6-1OBBIntersect.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex6-2ParticleBound", "Ex6-2ParticleBound\Ex6-2ParticleBound.vcproj", "{07523CCE-6F3A-4356-A62B-825900919A89}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex6-3SpringBound", "Ex6-3SpringBound\Ex6-3SpringBound.vcproj", "{0ADD25F9-85DB-4452-B22E-38DA4EDF9ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{07523CCE-6F3A-4356-A62B-825900919A89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07523CCE-6F3A-4356-A62B-825900919A89}.Debug|Win32.Build.0 = Debug|Win32
+		{07523CCE-6F3A-4356-A62B-825900919A89}.Release|Win32.ActiveCfg = Release|Win32
+		{07523CCE-6F3A-4356-A62B-825900919A89}.Release|Win32.Build.0 = Release|Win32
+		{0ADD25F9-85DB-4452-B22E-38DA4EDF9ECB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0ADD25F9-85DB-4452-B22E-38DA4EDF9ECB}.Debug|Win32.Build.0 = Debug|Win32
+		{0ADD25F9-85DB-4452-B22E-38DA4EDF9ECB}.Release|Win32.ActiveCfg = Release|Win32
+		{0ADD25F9-85DB-4452-B22E-38DA4EDF9ECB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

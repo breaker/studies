@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SGL", "SGL\SGL.vcproj", "{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MtrlAlpha", "MtrlAlpha\MtrlAlpha.vcproj", "{DFC3402E-C36A-47CE-A08F-DC980DAE6EFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TexAlpha", "TexAlpha\TexAlpha.vcproj", "{C467C159-29EB-4427-8BA3-25DB06DB7019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{3EB3A35F-2AF7-4609-96B5-06CC90B0E6CF}.Release|Win32.Build.0 = Release|Win32
+		{DFC3402E-C36A-47CE-A08F-DC980DAE6EFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFC3402E-C36A-47CE-A08F-DC980DAE6EFA}.Debug|Win32.Build.0 = Debug|Win32
+		{DFC3402E-C36A-47CE-A08F-DC980DAE6EFA}.Release|Win32.ActiveCfg = Release|Win32
+		{DFC3402E-C36A-47CE-A08F-DC980DAE6EFA}.Release|Win32.Build.0 = Release|Win32
+		{C467C159-29EB-4427-8BA3-25DB06DB7019}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C467C159-29EB-4427-8BA3-25DB06DB7019}.Debug|Win32.Build.0 = Debug|Win32
+		{C467C159-29EB-4427-8BA3-25DB06DB7019}.Release|Win32.ActiveCfg = Release|Win32
+		{C467C159-29EB-4427-8BA3-25DB06DB7019}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

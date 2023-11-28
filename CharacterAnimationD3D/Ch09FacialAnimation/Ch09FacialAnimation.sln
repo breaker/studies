@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9-1EyeLookAt", "Ex9-1EyeLookAt\Ex9-1EyeLookAt.vcproj", "{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9-2MultiMeshFace", "Ex9-2MultiMeshFace\Ex9-2MultiMeshFace.vcproj", "{7CD9C172-0F90-43A5-A88C-85BDBF7BD795}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9-3FaceController", "Ex9-3FaceController\Ex9-3FaceController.vcproj", "{60A74706-D80D-40B3-9E07-E97CB3C24939}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9-4FaceFactory", "Ex9-4FaceFactory\Ex9-4FaceFactory.vcproj", "{E8150E87-5577-41C9-B67A-EEBF2A47B259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BF148245-C1C7-4D2B-BF89-D0CACEDD96C3}.Release|Win32.Build.0 = Release|Win32
+		{7CD9C172-0F90-43A5-A88C-85BDBF7BD795}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CD9C172-0F90-43A5-A88C-85BDBF7BD795}.Debug|Win32.Build.0 = Debug|Win32
+		{7CD9C172-0F90-43A5-A88C-85BDBF7BD795}.Release|Win32.ActiveCfg = Release|Win32
+		{7CD9C172-0F90-43A5-A88C-85BDBF7BD795}.Release|Win32.Build.0 = Release|Win32
+		{60A74706-D80D-40B3-9E07-E97CB3C24939}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60A74706-D80D-40B3-9E07-E97CB3C24939}.Debug|Win32.Build.0 = Debug|Win32
+		{60A74706-D80D-40B3-9E07-E97CB3C24939}.Release|Win32.ActiveCfg = Release|Win32
+		{60A74706-D80D-40B3-9E07-E97CB3C24939}.Release|Win32.Build.0 = Release|Win32
+		{E8150E87-5577-41C9-B67A-EEBF2A47B259}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8150E87-5577-41C9-B67A-EEBF2A47B259}.Debug|Win32.Build.0 = Debug|Win32
+		{E8150E87-5577-41C9-B67A-EEBF2A47B259}.Release|Win32.ActiveCfg = Release|Win32
+		{E8150E87-5577-41C9-B67A-EEBF2A47B259}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
